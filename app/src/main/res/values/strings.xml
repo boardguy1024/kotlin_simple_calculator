@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">シンプル電卓</string>
+    
+    <string-array name="number_of_question">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
 </resources>
